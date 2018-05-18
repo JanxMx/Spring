@@ -1,0 +1,56 @@
+De la investigación que realice de Spring tengo los los siguientes links:
+
+1- Documentación de Spring
+	http://static.springsource.org/spring/docs/3.0.x/spring-framework-reference/html/index.html
+2- Referencia de spring con ejemplos
+	http://www.springbyexample.org/examples/
+3- Introdución a Spring MVC con netbeans
+	http://netbeans.org/kb/docs/web/quickstart-webapps-spring.html
+4- Hello World en eclipse
+	http://www.roseindia.net/spring/spring3/spring-3-hello-world.shtml
+5- Aplicación simple en Spring
+	http://static.springsource.com/projects/tc-server/6.0/getstart/tgsdevtut.html
+6- Ejemplos varios de Spring (Ioc,MVC,annotation,controller,validation,interceptor,jdbc) - AMPLIAMENTE RECOMENDABLE esta página, 70 a 80% de lo que he aprendido de Spring fue de estos ejemplos.
+	http://www.vaannila.com/spring/spring-tutorial/spring-tutorial.html
+		NOTA: 	Todos los ejercicios corresponden a la página de vaanilla 
+			con excepción de Spring-Ejercicio-Login el cual es una mezcla de:
+				* IoC/DI
+				* MVC
+				* Anotaciones
+				* Validaciones
+				* JDBC
+				* Controller
+				* Tiles
+				* Internacionalizacion.
+				* Interceptor
+				* Logs (log4j)
+				* properties
+
+		- Spring-Annotations
+		- Spring-Constructor-Injection
+		- Spring-FormValidation
+		- Spring-FormValidationWithAnnotation
+		- Spring-Interceptor
+		- Spring-InterceptorWithAnnotation
+		- Spring-JDBC
+		- Spring-MultiActionController
+		- Spring-MVC
+		- Spring-SimpleFormController
+		- Spring-SimpleFormControllerAnnotation
+		- Spring-TilesIntegration
+7- Validaciones en Spring, la documentación es muy buena pero el código del ejercicio tiene errores (no funciono)
+	http://www.roseindia.net/tutorial/spring/spring3/web/spring-3-mvc-validation-example.html
+8- Ejercicios de Spring (no logre hacer funcionar ninguno)
+	http://www.mkyong.com/jsf2/jsf-2-0-spring-hibernate-integration-example/
+	http://www.mkyong.com/struts/struts-spring-hibernate-integration-example/
+	http://www.dosideas.com/wiki/Hibernate_Con_Spring
+9- Spring web MVC
+	http://www.epidataconsulting.com/tikiwiki/tiki-index.php?page=Spring+Web+MVC#abc354c32dfac8832a9dab88cd13594cf
+10- Spring validaciones con anotaciones
+	http://jroller.com/alistair/entry/spring_validation_with_annotations
+11- Este link debe ser interesante porque lo guarde, desafortunadamente como muchos otros ya esta bloquedado.
+	https://anonsvn.springframework.org/svn/spring-samples/
+
+NOTA: estos son los links que tengo registrados de los muchos que consulte, seguramente algunos links buenos no los guarde 
+ya sea porque se bloqueo la cómpu, porque los bloquearon o incluso por accidente, sin embargo considero que toda esta 
+información es suficiente para entender como funciona Spring.
